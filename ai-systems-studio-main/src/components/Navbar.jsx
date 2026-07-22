@@ -37,7 +37,7 @@ export default function Navbar() {
             <Sparkles className="h-4 w-4 text-white" />
           </div>
           <span className="font-display text-base font-semibold tracking-tight">
-            Nova<span style={{ color: "#F28500" }}>.</span>
+            Aleena Shah<span style={{ color: "#F28500" }}>.</span>
           </span>
         </a>
 
